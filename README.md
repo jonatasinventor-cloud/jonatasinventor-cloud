@@ -1,74 +1,63 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:12304A,100:8A5A35&height=180&section=header&text=J%C3%B4natas%20Nunes&fontSize=42&fontColor=F4F1EA&fontAlignY=38&desc=MECATR%C3%94NICA%20%7C%20ENGENHARIA%20%7C%20INVEN%C3%87%C3%83O&descAlignY=61&descSize=13&animation=fadeIn" alt="Jônatas Nunes — Mecatrônica, Engenharia e Invenção" />
-</p>
+<div align="center">
 
-<p align="center">
-  <em>Compreender os princípios. Projetar soluções. Transformar ideias em realidade.</em>
-</p>
+# Jônatas Nunes
+
+**Mecatrônica · Tecnologia · Invenção**
+
+*Estudar os princípios. Entender os sistemas. Construir o que ainda não existe.*
+
+</div>
 
 ---
 
-## Sobre mim
+## Perfil
 
-Sou **Técnico em Mecatrônica**, interessado em ciência, engenharia e desenvolvimento de soluções práticas. Estou retomando e aprofundando meus estudos técnicos, revisitando os fundamentos da minha formação e buscando aplicá-los em projetos, experimentos e protótipos.
+Sou **Técnico em Mecatrônica** e mantenho meus estudos ativos, aprofundando os conhecimentos da formação e explorando como diferentes áreas da engenharia se conectam na prática.
 
-Tenho especial interesse na integração entre **mecânica, eletrônica, programação e automação** — áreas que permitem transformar conceitos em sistemas reais.
+Meu interesse está na interseção entre **mecânica, eletrônica, programação e automação** — especialmente no caminho que transforma uma ideia em um sistema funcional. Quero construir uma trajetória baseada em fundamentos sólidos, experimentação e projetos bem documentados.
 
-Minha curiosidade é inspirada por mentes multidisciplinares como **Nikola Tesla** e **Leonardo da Vinci**: pessoas que investigaram como as coisas funcionam e buscaram construir algo novo. Quero seguir esse espírito por meio de estudo consistente, experimentação e documentação dos meus projetos.
+Tenho como referências a curiosidade investigativa de **Leonardo da Vinci** e o pensamento inventivo de **Nikola Tesla**. Mais do que admirar suas realizações, busco cultivar o hábito de estudar, testar hipóteses e compreender como as coisas funcionam.
 
-## Áreas de interesse
+## Interesses técnicos
 
-- Mecatrônica, robótica e sistemas embarcados
-- Eletrônica, circuitos, sensores e atuadores
-- Automação industrial e sistemas de controle
+- Sistemas mecatrônicos e automação industrial
+- Eletrônica, sensores, atuadores e instrumentação
 - Programação aplicada a sistemas físicos
+- Robótica e sistemas embarcados
 - Desenho técnico, CAD e prototipagem
-- Matemática e Física como fundamentos da engenharia
+- Matemática e Física como base para engenharia
 
-## Ferramentas de estudo e desenvolvimento
+## Ferramentas
 
-<p align="left">
-  <a href="https://obsidian.md/" title="Obsidian"><img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" /></a>
-  <a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" /></a>
-</p>
+<div align="left">
+  <a href="https://obsidian.md/"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white"></a>
+  <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
+  <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"></a>
+</div>
 
-## Linguagens e tecnologias
+## Linguagens e automação
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Ladder%20Logic-455A64?style=for-the-badge" alt="Ladder Logic" />
-  <img src="https://img.shields.io/badge/Industrial%20Automation-263238?style=for-the-badge" alt="Automação industrial" />
-</p>
+<div align="left">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img alt="Ladder Logic" src="https://img.shields.io/badge/Ladder%20Logic-455A64?style=flat-square">
+  <img alt="Industrial Automation" src="https://img.shields.io/badge/Industrial%20Automation-37474F?style=flat-square">
+</div>
 
-C++ e lógica Ladder fazem parte do meu contato com programação e automação. Os selos indicam tecnologias com as quais tenho contato ou que estou aprofundando — não representam, por si só, certificação ou domínio profissional.
+Tenho contato com **C++** e **lógica Ladder** e sigo revisando e aprofundando esses conhecimentos. Os selos representam tecnologias com as quais estudo ou tenho contato; não são uma declaração de certificação ou domínio avançado.
 
-### Próximos passos de estudo
+## Em desenvolvimento
 
-- Arduino e outros microcontroladores
-- CLPs/PLCs e lógica de controle
-- Sensores, atuadores e instrumentação
-- CAD e modelagem 3D
+Áreas que pretendo explorar e aprofundar conforme meus estudos e projetos avançarem:
+
+- Microcontroladores, como Arduino
+- CLPs, sensores e sistemas de controle
 - Eletrônica analógica e digital
-- Fundamentos de controle e automação
+- CAD e modelagem 3D
+- Robótica e sistemas embarcados
 
-*Esta lista representa áreas que pretendo aprofundar; não significa que já tenha experiência prática em todas elas.*
+## Projetos e caderno de laboratório
 
-## Projetos e experimentos
+Este perfil será um registro da minha evolução técnica: projetos, experiências, simulações e aprendizados. Quero documentar não apenas o resultado, mas também os fundamentos, as decisões de projeto, os testes e o que precisa ser melhorado.
 
-Quero usar este perfil para documentar minha evolução técnica por meio de projetos, simulações, testes e protótipos. Sempre que possível, cada projeto terá:
-
-- **Objetivo:** o problema ou a ideia investigada.
-- **Fundamentos:** os conceitos envolvidos.
-- **Desenvolvimento:** ferramentas e etapas utilizadas.
-- **Testes e resultados:** o que funcionou e o que pode melhorar.
-- **Aprendizados:** conclusões e próximos passos.
-
-Os projetos serão adicionados conforme forem desenvolvidos e documentados.
-
----
-
-<p align="center">
-  <em>Curiosidade para investigar. Disciplina para aprender. Coragem para construir.</em>
-</p>
+*Ideias com fundamento. Conhecimento em construção. Engenharia em prática.*
