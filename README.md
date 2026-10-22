@@ -1,4 +1,3 @@
-# 👋 Olá, eu sou o Jônatas!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:12304A&height=150&section=header&text=Jônatas%20Nunes&fontSize=35&fontColor=FFFFFF&animation=fadeIn" alt="Banner tecnológico"/>
