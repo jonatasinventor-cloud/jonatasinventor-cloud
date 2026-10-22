@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Jônatas!
 
-<!--
-**jonatasinventor-cloud/jonatasinventor-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:12304A&height=150&section=header&text=Jônatas%20Nunes&fontSize=35&fontColor=FFFFFF&animation=fadeIn" alt="Banner tecnológico"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Explorando tecnologia, desenvolvendo projetos e aprendendo na prática. ⚙️</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Sobre mim
+
+Estou construindo minha trajetória na área de **mecatrônica**, com interesse em eletrônica, programação e automação.
+
+Atualmente, pratico com ferramentas de desenvolvimento e simulação, buscando transformar conhecimento em projetos reais.
+
+### 🛠️ Tecnologias
+
+**Em aprendizado**
+- Visual Studio
+- Tinkercad
+
+**Próximos passos**
+- Arduino e microcontroladores
+- CAD e ferramentas Autodesk
+- Eletrônica e automação
+
+### 🚀 Projetos
+
+Espaço dedicado aos meus experimentos, estudos e projetos práticos.
+
+- 🔌 Eletrônica e circuitos
+- 💻 Programação
+- 🤖 Mecatrônica e automação
+- 📐 Modelagem e prototipagem
+
+*Os projetos serão adicionados conforme forem desenvolvidos e documentados.*
+
+---
+
+<p align="center">
+  <i>Aprender, construir, testar e evoluir.</i>
+</p>
